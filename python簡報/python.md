@@ -2,6 +2,8 @@
 ```
 ```
 names = ['Christopher', 'Susan']
+```
+```
 index = 0
 while index < len(names): //判斷條件
 	print(names[index])
